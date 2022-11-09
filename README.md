@@ -1,6 +1,6 @@
 ### Hi, I'm Mohamed!
  
-<img src="https://user-images.githubusercontent.com/29023819/200857050-3e1f666e-90cd-4a80-a869-88d72474118e.png" width="300" height="90" align=right>
+<img src="https://user-images.githubusercontent.com/29023819/200861333-6ed57c05-2d0d-43f5-8238-19ca8b8ee7d3.jpeg" width="300" height="90" align=right>
  
 
 I have a great passion for Software Engineering as it allows for experiments with various designs 
