@@ -1,7 +1,5 @@
 ### A STORY ABOUT STORIES 
 
-<img src="https://user-images.githubusercontent.com/29023819/200862463-f0dddbba-6b04-4b8f-b7b3-bd9e6792fa82.jpeg" align=right> 
-
 I belive in design with meaning.
 
 A good attention to detail, precise work on people's experiences. A way to \
